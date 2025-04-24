@@ -37,10 +37,10 @@
         <mxCell id="5IEd1D8y2sKXLxusC1cx-1" value="Polling Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5IEd1D8y2sKXLxusC1cx-2" value="JIRA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5IEd1D8y2sKXLxusC1cx-2" value="JIRA&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(Rest API)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5IEd1D8y2sKXLxusC1cx-3" value="Sefvice Now" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5IEd1D8y2sKXLxusC1cx-3" value="Sefvice Now&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Rest API)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5IEd1D8y2sKXLxusC1cx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5IEd1D8y2sKXLxusC1cx-18" target="5IEd1D8y2sKXLxusC1cx-16" edge="1">
