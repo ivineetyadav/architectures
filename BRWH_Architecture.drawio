@@ -23,8 +23,8 @@
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-31" value="Business Resilience&lt;br&gt;Request Adapter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="425" y="147.5" width="150" height="340" as="geometry" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-31" value="Business Resilience&lt;br&gt;Request Adapter&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="425" y="147.5" width="175" height="282.5" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32" target="-Si1qEhgWz94pLlsSCn9-48">
           <mxGeometry relative="1" as="geometry">
@@ -162,6 +162,18 @@
           <mxGeometry x="-0.17" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-99" value="Siebel Adapter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="445" y="205" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-100" value="SNOW Adapter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="445" y="260" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-101" value="JIRA Adapter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="445" y="310" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-102" value="Dynamic365 Adapter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="445" y="360" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
