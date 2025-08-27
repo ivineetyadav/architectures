@@ -1,71 +1,167 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Page-1" id="OteSbWdA2ZE-DIGd8uvN">
-    <mxGraphModel dx="3842" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2712" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-34" value="Business Resilience UI" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="730" y="30" width="150" height="75" as="geometry" />
+        </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-28" target="-Si1qEhgWz94pLlsSCn9-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-28" value="Application Component" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-30" value="Application Component" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="120" y="320" width="150" height="75" as="geometry" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-65" value="Send Service Request&amp;nbsp;&lt;div&gt;Created Task&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-42">
+          <mxGeometry x="0.1143" y="-1" relative="1" as="geometry">
+            <mxPoint x="-7" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-31" target="-Si1qEhgWz94pLlsSCn9-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-31" value="Application Service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="390" y="160" width="150" height="75" as="geometry" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-67" value="Send Uniform Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-43">
+          <mxGeometry x="-0.1095" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32" target="-Si1qEhgWz94pLlsSCn9-36">
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-31" value="Business Resilience&lt;br&gt;Request Adapter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="425" y="235" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32" target="-Si1qEhgWz94pLlsSCn9-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-75" value="Send Client Comm Request Task" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-54">
+          <mxGeometry x="0.4139" y="1" relative="1" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32" target="-Si1qEhgWz94pLlsSCn9-51">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-74" value="Send Notification Task&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-71">
+          <mxGeometry x="0.6528" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32" target="-Si1qEhgWz94pLlsSCn9-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="291" />
+              <mxPoint x="1160" y="318" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-86" value="Create/Update JIRA Ticket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-85">
+          <mxGeometry x="-0.4417" y="-1" relative="1" as="geometry">
+            <mxPoint x="43" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-32" value="Business Resilience&lt;div&gt;Service&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="660" y="160" width="150" height="75" as="geometry" />
+          <mxGeometry x="730" y="235" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-33" value="Business Resilience&lt;div&gt;Workflow&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="660" y="320" width="150" height="75" as="geometry" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-33" value="&lt;div&gt;TTS Workflow Service&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="390" y="600" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-34" value="Business Resilience UI" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="660" y="20" width="150" height="75" as="geometry" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-36" value="SNOW" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="160" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-36" value="Application Component" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="160" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-37" value="Application Component" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="320" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-38" target="-Si1qEhgWz94pLlsSCn9-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-38" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="220" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-38" target="-Si1qEhgWz94pLlsSCn9-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-37" value="JIRA" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="280" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-34" target="-Si1qEhgWz94pLlsSCn9-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-78" value="Serves UI Layer to Intertact wtih BRWH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-44">
+          <mxGeometry x="-0.2171" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32" target="-Si1qEhgWz94pLlsSCn9-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="450" />
+              <mxPoint x="465" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-70" value="Start/Update BRWH Workflow" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-45">
+          <mxGeometry x="0.1935" y="1" relative="1" as="geometry">
+            <mxPoint x="-86" y="59" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-48" target="-Si1qEhgWz94pLlsSCn9-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-33" target="-Si1qEhgWz94pLlsSCn9-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-72" value="Start/Update Client&amp;nbsp;&lt;div&gt;Comm Workflow&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-55">
+          <mxGeometry x="0.0632" y="-1" relative="1" as="geometry">
+            <mxPoint x="11" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-48" value="Comm Service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="1000" y="475" width="150" height="75" as="geometry" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-48" value="Client Comm Service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="730" y="600" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-49" value="Comm Workflow" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="1000" y="640" width="150" height="75" as="geometry" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-48" target="-Si1qEhgWz94pLlsSCn9-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1135" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-48" target="-Si1qEhgWz94pLlsSCn9-49">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-73" value="Send Notification Task" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-50">
+          <mxGeometry x="-0.0148" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-51" value="Notificatiion Service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="400" y="560" width="150" height="75" as="geometry" />
+          <mxGeometry x="1090" y="600" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="235" width="150" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-28" value="Siebel Smartworx&amp;nbsp;&lt;div&gt;Service&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="-Si1qEhgWz94pLlsSCn9-64">
+          <mxGeometry width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Si1qEhgWz94pLlsSCn9-64" source="-Si1qEhgWz94pLlsSCn9-38" target="-Si1qEhgWz94pLlsSCn9-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="95" />
+              <mxPoint x="75" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-63" value="Siebel Service Request Created" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-39">
+          <mxGeometry x="0.0039" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-38" value="Client Support User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="-Si1qEhgWz94pLlsSCn9-64">
+          <mxGeometry x="60" y="245" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32" target="-Si1qEhgWz94pLlsSCn9-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="250" />
+              <mxPoint x="1160" y="250" />
+              <mxPoint x="1160" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-87" value="Create/Update SNOW Request &amp;amp; Incident" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-83">
+          <mxGeometry x="-0.5719" relative="1" as="geometry">
+            <mxPoint x="64" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-88" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="607.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-51" target="-Si1qEhgWz94pLlsSCn9-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-94" value="Send Email to Client" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-89">
+          <mxGeometry x="-0.17" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
