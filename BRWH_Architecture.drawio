@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Page-1" id="OteSbWdA2ZE-DIGd8uvN">
-    <mxGraphModel dx="2712" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3546" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-Si1qEhgWz94pLlsSCn9-34" value="Business Resilience UI" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99FFCC;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="920" y="100" width="150" height="75" as="geometry" />
+          <mxGeometry x="1000" y="200" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-32" value="Business Resilience&lt;div&gt;Service&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99FFCC;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="920" y="322.5" width="150" height="75" as="geometry" />
+          <mxGeometry x="1000" y="422.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-36" target="-Si1qEhgWz94pLlsSCn9-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="310" />
-              <mxPoint x="470" y="310" />
+              <mxPoint x="550" y="410" />
+              <mxPoint x="550" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -23,10 +23,13 @@
             <mxPoint x="29" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260.5714285714289" y="590" as="targetPoint" />
-            <mxPoint x="260" y="345" as="sourcePoint" />
+            <mxPoint x="340.5714285714289" y="690" as="targetPoint" />
+            <mxPoint x="340" y="445" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="340" y="564" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-157" value="Send Request &amp;amp; Incident Data&lt;div&gt;For Analytics&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-130">
@@ -36,7 +39,7 @@
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="675" as="targetPoint" />
+            <mxPoint x="400" y="775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-158" value="Send Ticket Data&amp;nbsp;&lt;div&gt;For Analytics&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-128">
@@ -47,8 +50,8 @@
         <mxCell id="-Si1qEhgWz94pLlsSCn9-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-37" target="-Si1qEhgWz94pLlsSCn9-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="635" y="480" />
-              <mxPoint x="635" y="480" />
+              <mxPoint x="715" y="580" />
+              <mxPoint x="715" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -58,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-37" value="JIRA" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
-          <mxGeometry x="560" y="637.5" width="150" height="75" as="geometry" />
+          <mxGeometry x="640" y="737.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-34" target="-Si1qEhgWz94pLlsSCn9-32">
           <mxGeometry relative="1" as="geometry" />
@@ -69,14 +72,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-106" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="535" y="230" width="175" height="260" as="geometry" />
+          <mxGeometry x="640" y="330" width="175" height="260" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Si1qEhgWz94pLlsSCn9-106" source="-Si1qEhgWz94pLlsSCn9-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-235" y="370" as="targetPoint" />
+            <mxPoint x="-260" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-234" y="210" />
-              <mxPoint x="-234" y="370" />
+              <mxPoint x="-260" y="210" />
+              <mxPoint x="-260" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -101,7 +104,7 @@
           <mxGeometry x="20" y="209.8019801980198" width="135" height="30.89108910891089" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-123" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="175" y="595" width="180" height="160" as="geometry" />
+          <mxGeometry x="255" y="695" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-114" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#FFCC99;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;network2Icon=mxgraph.networks2.big_data;network2IconXOffset=-0.0002;network2IconYOffset=0.0015;network2IconW=1;network2IconH= 0.996;" vertex="1" parent="-Si1qEhgWz94pLlsSCn9-123">
           <mxGeometry x="30.04000000000002" width="119.92" height="119.44" as="geometry" />
@@ -110,17 +113,17 @@
           <mxGeometry x="10" y="130" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-33" value="&lt;div&gt;TTS Workflow Service&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99FFCC;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="920" y="562.5" width="150" height="75" as="geometry" />
+          <mxGeometry x="1000" y="662.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-48" value="BRWH Client Comm Service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99FFCC;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="1400" y="430" width="150" height="75" as="geometry" />
+          <mxGeometry x="1480" y="530" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-48" target="-Si1qEhgWz94pLlsSCn9-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1645" y="697.5" as="targetPoint" />
+            <mxPoint x="1725" y="797.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1475" y="360" />
-              <mxPoint x="1475" y="360" />
+              <mxPoint x="1555" y="460" />
+              <mxPoint x="1555" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -139,10 +142,10 @@
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32" target="-Si1qEhgWz94pLlsSCn9-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1350" y="240" as="targetPoint" />
+            <mxPoint x="1430" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1240" y="340" />
-              <mxPoint x="1240" y="240" />
+              <mxPoint x="1320" y="440" />
+              <mxPoint x="1320" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -154,7 +157,7 @@
         <mxCell id="-Si1qEhgWz94pLlsSCn9-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-48" target="-Si1qEhgWz94pLlsSCn9-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1480" y="600" />
+              <mxPoint x="1560" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -174,8 +177,8 @@
         <mxCell id="-Si1qEhgWz94pLlsSCn9-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32" target="-Si1qEhgWz94pLlsSCn9-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1240" y="379" />
-              <mxPoint x="1240" y="486" />
+              <mxPoint x="1320" y="479" />
+              <mxPoint x="1320" y="586" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -192,32 +195,8 @@
             <mxPoint x="-74" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-160" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="80" width="270" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-28" value="Siebel Smartworx&amp;nbsp;&lt;div&gt;Service&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="-Si1qEhgWz94pLlsSCn9-160">
-          <mxGeometry x="120" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Si1qEhgWz94pLlsSCn9-160" source="-Si1qEhgWz94pLlsSCn9-38" target="-Si1qEhgWz94pLlsSCn9-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-38" value="Client Support&amp;nbsp;&lt;div&gt;User&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFF99;" vertex="1" parent="-Si1qEhgWz94pLlsSCn9-160">
-          <mxGeometry y="7.5" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-161" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="270" width="270" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-36" value="SNOW" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="-Si1qEhgWz94pLlsSCn9-161">
-          <mxGeometry x="120" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-Si1qEhgWz94pLlsSCn9-161" source="-Si1qEhgWz94pLlsSCn9-110" target="-Si1qEhgWz94pLlsSCn9-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-110" value="Production Support&amp;nbsp;&lt;div&gt;User&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFF99;" vertex="1" parent="-Si1qEhgWz94pLlsSCn9-161">
-          <mxGeometry y="7.5" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-162" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1400" y="30" width="150" height="240" as="geometry" />
+          <mxGeometry x="1480" y="130" width="150" height="240" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-51" value="Notificatiion Service" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="-Si1qEhgWz94pLlsSCn9-162">
           <mxGeometry y="165" width="150" height="75" as="geometry" />
@@ -234,6 +213,34 @@
           <mxGeometry x="-0.17" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" y="-4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-28" value="Siebel Smartworx&amp;nbsp;&lt;div&gt;Service&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99FFCC;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="310" y="187.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-38" target="-Si1qEhgWz94pLlsSCn9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-164" value="Serves Interface to Manually&amp;nbsp;&lt;div&gt;Create Service Request&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-108">
+          <mxGeometry x="-0.1778" y="-1" relative="1" as="geometry">
+            <mxPoint x="15" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-38" value="Client Support&amp;nbsp;&lt;div&gt;User&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="70" y="195" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-36" value="SNOW" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=comp;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="310" y="362.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-110" target="-Si1qEhgWz94pLlsSCn9-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-168" value="Manually Register&amp;nbsp;&lt;div&gt;Service Request&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-111">
+          <mxGeometry x="-0.1765" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-110" value="Production Support&amp;nbsp;&lt;div&gt;User&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="70" y="377.5" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
