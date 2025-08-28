@@ -1,15 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Page-1" id="OteSbWdA2ZE-DIGd8uvN">
-    <mxGraphModel dx="1921" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2712" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-Si1qEhgWz94pLlsSCn9-34" value="Business Resilience UI" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99FFCC;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
           <mxGeometry x="1000" y="187.5" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32">
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32" target="-Si1qEhgWz94pLlsSCn9-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="478.66666666666674" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="908" y="479" />
+              <mxPoint x="908" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-184" value="BRWH Task Action&amp;nbsp;&lt;div&gt;&amp;amp; Response&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-183">
@@ -17,18 +21,18 @@
             <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32" target="-Si1qEhgWz94pLlsSCn9-192">
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32" target="-Si1qEhgWz94pLlsSCn9-192">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1080" y="423" />
-              <mxPoint x="1080" y="310" />
-              <mxPoint x="1260" y="310" />
+              <mxPoint x="1080" y="360" />
+              <mxPoint x="1293" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-194" value="Store Operation Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-193">
           <mxGeometry x="0.4795" relative="1" as="geometry">
-            <mxPoint x="10" as="offset" />
+            <mxPoint x="-3" y="-49" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-32">
@@ -140,7 +144,11 @@
           <mxGeometry x="10" y="130" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-33" target="-Si1qEhgWz94pLlsSCn9-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="719" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-189" value="Response&amp;nbsp;&lt;div&gt;Process Data&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-188">
           <mxGeometry x="-0.1847" relative="1" as="geometry">
@@ -182,8 +190,7 @@
         <mxCell id="-Si1qEhgWz94pLlsSCn9-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1520" y="680" />
-              <mxPoint x="1150" y="680" />
+              <mxPoint x="1540" y="680" />
             </Array>
             <mxPoint x="1150" y="680" as="targetPoint" />
           </mxGeometry>
