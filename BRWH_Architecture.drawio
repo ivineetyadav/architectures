@@ -78,7 +78,8 @@
         <mxCell id="-Si1qEhgWz94pLlsSCn9-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-37" target="-Si1qEhgWz94pLlsSCn9-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="760" />
+              <mxPoint x="690" y="630" />
+              <mxPoint x="690" y="630" />
             </Array>
             <mxPoint x="710" y="787.5000000000002" as="sourcePoint" />
             <mxPoint x="710" y="730" as="targetPoint" />
@@ -86,7 +87,7 @@
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-154" value="Send Ticket&amp;nbsp;&lt;div&gt;Event &amp;amp; Updates&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-139">
           <mxGeometry x="-0.201" y="-1" relative="1" as="geometry">
-            <mxPoint x="9" y="-42" as="offset" />
+            <mxPoint x="-1" y="-42" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-37">
@@ -229,7 +230,7 @@
         <mxCell id="-Si1qEhgWz94pLlsSCn9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-28" target="-Si1qEhgWz94pLlsSCn9-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="760" y="210" />
+              <mxPoint x="750" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -285,24 +286,18 @@
         <mxCell id="-Si1qEhgWz94pLlsSCn9-110" value="Production Support&amp;nbsp;&lt;div&gt;User&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="70" y="377.5" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-31" target="-Si1qEhgWz94pLlsSCn9-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-Si1qEhgWz94pLlsSCn9-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="330" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="710" y="330" />
+              <mxPoint x="710" y="244" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-171" value="Update Task Progress" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-170">
           <mxGeometry x="0.1919" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-31" target="-Si1qEhgWz94pLlsSCn9-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="765" y="590" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-178" value="Update Ticket&amp;nbsp;&lt;div&gt;Progress&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-177">
-          <mxGeometry x="-0.2553" y="-1" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Si1qEhgWz94pLlsSCn9-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-31" target="-Si1qEhgWz94pLlsSCn9-36">
@@ -347,6 +342,19 @@
         <mxCell id="-Si1qEhgWz94pLlsSCn9-200" value="Serves UI Layer to&amp;nbsp;&lt;div&gt;Intertact wtih BRWH&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-199">
           <mxGeometry x="-0.225" y="1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Si1qEhgWz94pLlsSCn9-31" target="-Si1qEhgWz94pLlsSCn9-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="670" />
+              <mxPoint x="760" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-203" value="Update Ticket&amp;nbsp;&lt;div&gt;Progress&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Si1qEhgWz94pLlsSCn9-202">
+          <mxGeometry x="-0.2247" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
