@@ -57,31 +57,10 @@
           <mxGeometry x="530" y="760" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hCT9-CGwWjfkCfQPj0Aq-71" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="305" y="400" width="280" height="360" as="geometry" />
+          <mxGeometry x="305" y="420" width="280" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-106" value="" style="group;fillColor=#CCFFE6;container=0;" parent="hCT9-CGwWjfkCfQPj0Aq-71" vertex="1" connectable="0">
-          <mxGeometry x="10.37037037037037" y="42.35294117647059" width="181.48148148148147" height="307.05882352941177" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-31" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Business Resilience&lt;/span&gt;&lt;br style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Service&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#DFFFEF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" parent="hCT9-CGwWjfkCfQPj0Aq-71" vertex="1">
-          <mxGeometry width="280" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-99" value="Siebel Adapter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=none;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" parent="hCT9-CGwWjfkCfQPj0Aq-71" vertex="1">
-          <mxGeometry x="31.11111111111111" y="119.87769365171815" width="140" height="36.48223645894001" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-100" value="SNOW Adapter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=none;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" parent="hCT9-CGwWjfkCfQPj0Aq-71" vertex="1">
-          <mxGeometry x="31.11111111111111" y="177.6412347117064" width="140" height="36.48223645894001" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-101" value="JIRA Adapter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=none;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" parent="hCT9-CGwWjfkCfQPj0Aq-71" vertex="1">
-          <mxGeometry x="31.11111111111111" y="232.36458940011659" width="140" height="36.48223645894001" as="geometry" />
-        </mxCell>
-        <mxCell id="-Si1qEhgWz94pLlsSCn9-103" value="iDna Adapter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=none;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" parent="hCT9-CGwWjfkCfQPj0Aq-71" vertex="1">
-          <mxGeometry x="31.11111111111111" y="290.12813046010484" width="140" height="36.48223645894001" as="geometry" />
-        </mxCell>
-        <mxCell id="hCT9-CGwWjfkCfQPj0Aq-66" value="CIS Adapter" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=none;shape=mxgraph.archimate3.application;appType=interface;archiType=square;" parent="hCT9-CGwWjfkCfQPj0Aq-71" vertex="1">
-          <mxGeometry x="31.11111111111111" y="65.38235294117648" width="140" height="36.48223645894001" as="geometry" />
-        </mxCell>
-        <mxCell id="hCT9-CGwWjfkCfQPj0Aq-70" value="Backend Layer&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(BRWH &amp;amp; Client Segment)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" parent="hCT9-CGwWjfkCfQPj0Aq-71" vertex="1">
-          <mxGeometry x="191.85185185185185" y="65.91176470588235" width="67.4074074074074" height="262.5882352941176" as="geometry" />
+        <mxCell id="-Si1qEhgWz94pLlsSCn9-31" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Business Resilience&lt;/span&gt;&lt;br style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Service&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#DFFFEF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" parent="hCT9-CGwWjfkCfQPj0Aq-71" vertex="1">
+          <mxGeometry x="50" y="-10" width="180" height="340" as="geometry" />
         </mxCell>
         <mxCell id="hCT9-CGwWjfkCfQPj0Aq-78" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="945" y="680" width="240" height="390" as="geometry" />
@@ -114,10 +93,11 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCT9-CGwWjfkCfQPj0Aq-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="-Si1qEhgWz94pLlsSCn9-31" target="-Si1qEhgWz94pLlsSCn9-192" edge="1">
+        <mxCell id="hCT9-CGwWjfkCfQPj0Aq-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="-Si1qEhgWz94pLlsSCn9-31" target="-Si1qEhgWz94pLlsSCn9-192" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="378" y="760" />
+              <mxPoint x="378" y="780" />
+              <mxPoint x="378" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -203,20 +183,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCT9-CGwWjfkCfQPj0Aq-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="hCT9-CGwWjfkCfQPj0Aq-77" source="hCT9-CGwWjfkCfQPj0Aq-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-360" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-180" y="250" />
-              <mxPoint x="-360" y="251" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hCT9-CGwWjfkCfQPj0Aq-124" value="Access Client &amp;amp; Incident Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#99ffff;" parent="hCT9-CGwWjfkCfQPj0Aq-123" vertex="1" connectable="0">
-          <mxGeometry x="-0.0505" y="3" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hCT9-CGwWjfkCfQPj0Aq-28" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;dashed=1;dashPattern=5 2 1 2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=8;html=1;whiteSpace=wrap;fillColor=#F2F0FF;" parent="hCT9-CGwWjfkCfQPj0Aq-77" vertex="1">
           <mxGeometry width="240" height="360.001318686149" as="geometry" />
         </mxCell>
@@ -246,6 +212,20 @@
         <mxCell id="hCT9-CGwWjfkCfQPj0Aq-132" value="Store Comm Data&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#99ffff;" parent="hCT9-CGwWjfkCfQPj0Aq-131" vertex="1" connectable="0">
           <mxGeometry x="0.3351" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCT9-CGwWjfkCfQPj0Aq-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="hCT9-CGwWjfkCfQPj0Aq-28" edge="1" target="-Si1qEhgWz94pLlsSCn9-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="520" />
+              <mxPoint x="650" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCT9-CGwWjfkCfQPj0Aq-124" value="Access Client &amp;amp; Incident Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#99ffff;" parent="hCT9-CGwWjfkCfQPj0Aq-123" vertex="1" connectable="0">
+          <mxGeometry x="-0.0505" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
