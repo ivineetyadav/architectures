@@ -11,7 +11,7 @@
           <mxGeometry height="550" width="810" x="230" y="130" as="geometry" />
         </mxCell>
         <mxCell id="kDcFLTm4qtIwslRtORy6-16" parent="kDcFLTm4qtIwslRtORy6-42" style="rounded=1;whiteSpace=wrap;html=1;" value="AGENCY&#xa;----------------&#xa;id (PK)&#xa;name&#xa;status&#xa;created_at" vertex="1">
-          <mxGeometry height="119.87179487179489" width="129.6" x="18" y="14.102564102564104" as="geometry" />
+          <mxGeometry height="119.87179487179489" width="129.6" x="3.5999999999999996" y="14.102564102564104" as="geometry" />
         </mxCell>
         <mxCell id="kDcFLTm4qtIwslRtORy6-17" parent="kDcFLTm4qtIwslRtORy6-42" style="rounded=1;whiteSpace=wrap;html=1;" value="USER&#xa;----------------&#xa;id (PK)&#xa;agency_id (FK)&#xa;department_id (FK)&#xa;role_id (FK)&#xa;name&#xa;email&#xa;is_active&#xa;is_deleted" vertex="1">
           <mxGeometry height="170" width="169.6" x="320.2" y="-10.96" as="geometry" />
